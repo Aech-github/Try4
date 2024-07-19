@@ -1,9 +1,9 @@
 function setup() {
-  createCanvas(600, 600);
-  background(0);
-  strokeWeight(2);
+  createCanvas(1000, 1000);
+  background(150,200.130);
+  strokeWeight(50);
   stroke('white');
-  frameRate(10) ;
+  frameRate(100) ;
  
 
 }
